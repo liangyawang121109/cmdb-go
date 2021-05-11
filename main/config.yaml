@@ -1,0 +1,5 @@
+name: mysql
+user: ysx_dba
+passwd: ysx_dba
+databaseurl: 192.168.100.5
+database: ysx_cmdb
